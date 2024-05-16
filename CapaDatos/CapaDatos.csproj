@@ -42,8 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CD_Crud.cs" />
+    <Compile Include="CD_Usuarios.cs" />
     <Compile Include="ConexionSQL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaSoporte\CapaSoporte.csproj">
+      <Project>{b566c1d0-bdf9-4b1c-928b-450e22d0e509}</Project>
+      <Name>CapaSoporte</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

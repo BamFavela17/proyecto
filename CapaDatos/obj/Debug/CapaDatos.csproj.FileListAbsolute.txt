@@ -4,3 +4,6 @@ C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\obj\Debug\CapaDatos.csproj.As
 C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\bin\Debug\CapaSoporte.dll
+C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\bin\Debug\CapaSoporte.pdb
+C:\Users\favel\OneDrive\Desktop\proyLoco\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date

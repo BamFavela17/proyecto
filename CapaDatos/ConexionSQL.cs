@@ -11,7 +11,7 @@ namespace CapaDatos
     public class ConexionSQL
     {
         
-        private SqlConnection Conexion = new SqlConnection("Server=BAMFAVELA\\ABRAHAM_A_F_F;DataBase= PuntoVentaCahuamanta;Integrated Security=true");
+        private SqlConnection Conexion = new SqlConnection("Server=BAMFAVELA\\ABRAHAM_A_F_F;DataBase= SGNDB;Integrated Security=true");
         public SqlConnection AbrirConexion()
         {
             if (Conexion.State == ConnectionState.Closed)
